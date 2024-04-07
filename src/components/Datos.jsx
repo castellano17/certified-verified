@@ -35,12 +35,12 @@ export const Datos = () => {
 
                 <div className="flex justify-center">
                   <img
-                    src="/src/assets/certified.png"
+                    src="/img/certified.png"
                     alt="logo"
                     className="w-20 h-12"
                   />
                   <img
-                    src="/src/assets/verified.png"
+                    src="/img/verified.png"
                     alt="logo"
                     className="w-20 h-12"
                   />

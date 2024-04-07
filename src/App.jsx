@@ -24,7 +24,7 @@ function App() {
               <div className="text-2xl">
                 <a href="#">
                   <img
-                    src="/src/assets/logoCodex.png"
+                    src="img/logoCodex.png"
                     alt="logo"
                     className="w-23 h-20 cursor-pointer"
                   />
